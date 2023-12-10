@@ -5,6 +5,7 @@
 // @grant       none
 // @version     1.0
 // @author      max3xyz
+// @downloadURL https://github.com/max3xyz/toggle-linkedin-feed/raw/main/toggle-linkedin-feed.user.js
 // @description Calm your mind and show the LinkedIn feed only when you are ready
 // ==/UserScript==
 
